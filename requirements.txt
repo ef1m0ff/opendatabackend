@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+telethon
+python-dotenv
+cleantext
+websockets
+dateparser
