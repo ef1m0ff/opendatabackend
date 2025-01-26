@@ -1,7 +1,3 @@
-Here’s a professional and structured README file for your hackathon project:
-
----
-
 # Open Data Challenge - Telegram Event Management System  
 
 This repository contains the codebase for the **Open Data Challenge** hackathon project. The goal of this project is to create a seamless event management system leveraging Telegram as a platform for communication and integration with a backend service for storing and retrieving event data.  
@@ -17,8 +13,6 @@ This repository contains the codebase for the **Open Data Challenge** hackathon 
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -143,22 +137,3 @@ This system automates the process of creating, retrieving, and managing events s
    Provide insights on events and user engagement.  
 4. **Localization**:  
    Support multiple languages for better accessibility.  
-
----
-
-## Contributing
-Contributions are welcome! Please follow these steps:  
-1. Fork this repository.  
-2. Create a new branch: `git checkout -b feature-branch-name`.  
-3. Commit your changes: `git commit -m 'Add some feature'`.  
-4. Push to the branch: `git push origin feature-branch-name`.  
-5. Submit a pull request.  
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.  
-
----
-
-**We hope this project inspires innovative ideas for open data integration. Thank you for your support!**
